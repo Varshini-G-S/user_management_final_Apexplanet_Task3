@@ -1,0 +1,16 @@
+# ApexPlanet User Management System
+
+## Features
+- User registration with hashed passwords
+- Role-based login (Admin/User)
+- CRUD operations (Add, Edit, Delete users)
+- Profile picture upload (jpg/png, max 2MB)
+- Secure authentication using PHP sessions
+
+## Instructions
+1. Install XAMPP and start Apache & MySQL
+2. Import database SQL from phpMyAdmin
+3. Place project folder in `C:\xampp\htdocs`
+4. Access in browser: `http://localhost/apexplanet_task3/`
+5. Register users, login, and manage users
+
